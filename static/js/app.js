@@ -67,7 +67,7 @@ let yticks = otu_ids.slice(0, 10).map(id => `OTU ${id}`).reverse();
 let barTrace = {
   x: sample_values.slice(0, 10).reverse(),
   y: yticks,
-  text: otu_labels.slice(0, 10).reverse(),
+  text: otu_labels,
   type: 'bar',
   orientation: 'h'
 };
