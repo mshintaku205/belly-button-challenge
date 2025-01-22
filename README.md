@@ -15,7 +15,7 @@ The result should look like the image below.
 
 ![alt text](belly_button_dashboard.png)
 
-HTML view available <a href="https://mshintaku205/belly-button-challenge/blob/main/index.html">here</a>
+HTML view available <a href="index.html">here</a>
 
 
 ## References
