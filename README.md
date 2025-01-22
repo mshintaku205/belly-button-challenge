@@ -13,9 +13,9 @@ Use the D3 library to read in a JSON format data and create the following:
 
 The result should look like the image below.
 
-![alt text](https://github.com/mshintaku205/belly-button-challenge/blob/main/belly_button_dashboard.PNG)
+![alt text](belly_button_dashboard.png)
 
-HTML view available <a href="https://github.com/mshintaku205/belly-button-challenge/blob/main/index.html">here</a>
+HTML view available <a href="https://mshintaku205/belly-button-challenge/blob/main/index.html">here</a>
 
 
 ## References
